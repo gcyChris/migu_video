@@ -1623,11 +1623,8 @@
     <programme channel="CCTV4美洲" start="20260926030000 +0800" stop="20260926033000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260926033000 +0800" stop="20260926035600 +0800">
-        <title lang="zh">国宝发现-2024-37</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260926035600 +0800" stop="20260926040000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-18</title>
+    <programme channel="CCTV4美洲" start="20260926033000 +0800" stop="20260926040000 +0800">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260926040000 +0800" stop="20260926043000 +0800">
         <title lang="zh">中国新闻</title>
